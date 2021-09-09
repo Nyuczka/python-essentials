@@ -1,5 +1,5 @@
 def main():
-    print(romeo_and_juliet('romeo.txt'))
+    print(romeo_and_juliet('../../resources/romeo.txt'))
 
 
 def romeo_and_juliet(filename):

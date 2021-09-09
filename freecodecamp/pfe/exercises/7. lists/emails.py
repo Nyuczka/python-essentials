@@ -2,8 +2,7 @@ import os
 
 
 def main():
-    os.chdir('../6. files')
-    returned_list = emails('mbox-short.txt')
+    returned_list = emails('../../resources/mbox-short.txt')
     print_emails(returned_list)
 
 

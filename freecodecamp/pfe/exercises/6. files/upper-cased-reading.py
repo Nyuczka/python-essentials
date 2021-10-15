@@ -1,6 +1,6 @@
 
 def main():
-    read_upper_cased('mbox-short.txt')
+    read_upper_cased('../../resources/mbox-short.txt')
 
 
 def read_upper_cased(filename):
